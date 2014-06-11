@@ -15,6 +15,8 @@ switch (help){
     
     x=1
     break;
+  case null:
+    x=1
   default:
     alert('Sorry! That was not a choice. \n (Remember not to include the "." with the number.')
 }
