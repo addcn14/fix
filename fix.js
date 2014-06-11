@@ -1,6 +1,5 @@
 alert("Welcome to the Computer Fixer!")
 var help = prompt("What do you need help with? \n 1. Printer issues. \n 2. Internet issues. \n 3. Something else")
-console.log(help)
 var x = 0
 while (x === 0){
 switch (help){
